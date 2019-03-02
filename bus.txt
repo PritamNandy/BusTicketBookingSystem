@@ -1,0 +1,10 @@
+Dhaka Chittagong EnaParibahan 2653 NonAC 440
+ASSH SSSH SSSH SSSH SSSH SSSH
+Dhaka Chittagong EnaParibahan 4589 AC 1000
+Dhaka Chittagong GreenLineParibahan 6325 AC 1250
+Dhaka Chittagong ShyamoliParibahan 4568 NonAC 440
+Dhaka Chittagong ShyamoliParibahan 8965 AC 1100
+Chittagong Dhaka EnaParibahan NonAC 3265 440
+Chittagong Dhaka EnaParibahan 7845 AC 1000
+Chittagong Dhaka GreenLineParibahan 2589 AC 1250
+Chittagong Dhaka ShyamoliParibahan 8563 AC 1100
